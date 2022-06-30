@@ -1,8 +1,8 @@
+//12. Write a method to remove duplicate elements from an array 
 package exercise4;
 
 import java.util.Arrays;
 import java.util.Scanner;
-import org.apache.commons.lang3.ArrayUtils;
 
 public class prg12 
 {
