@@ -39,10 +39,10 @@ package exercise9;
 					//instance for the child class
 					Dance d = new Dance();
         
-					//calling abstract methods
+					//calling abstract methods using child class instance
 					d.dancing();
         
-					//calling non-abstract methods
+					//calling non-abstract methods using child class instance
 					d.play();
 			}
 	}
