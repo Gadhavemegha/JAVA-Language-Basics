@@ -22,5 +22,6 @@ public class stringindexoutofbounds
 	at exercise14.stringindexoutofbounds.main(stringindexoutofbounds.java:17)
 */
 		   }
+//In the following Java program, we are creating a String of length 17 and trying to print the element at the index 40.
 	
 }
