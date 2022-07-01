@@ -1,4 +1,5 @@
 //4.Write a program with multiple catch blocks 
+//5.Write a program to throw exception with your own message 
 package exercise14;
 
 public class multiplecatchblack 
